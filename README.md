@@ -1,4 +1,4 @@
-### Confirguration Managment (GitHub)
+# Configuration Management (GitHub)
 
 ## Description:
 
