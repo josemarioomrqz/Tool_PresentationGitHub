@@ -41,6 +41,6 @@ This helps prevent configuration drift, reduces “it works on my machine” iss
 - Using PR/commit history to trace configuration and code changes
 
 ## Authors
-- Jose Marquez
 -  Kevin Kangethe
 -  James Odjeweuyi
+-  
