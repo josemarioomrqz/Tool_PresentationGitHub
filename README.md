@@ -43,4 +43,4 @@ This helps prevent configuration drift, reduces “it works on my machine” iss
 ## Authors
 -  Kevin Kangethe
 -  James Odjeweuyi
--  Jose Marquez
+-  
